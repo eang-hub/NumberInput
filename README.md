@@ -2,6 +2,8 @@
 # install
 ```bash
 pnpm i
+
+npm run dev:h5
 ```
 
 基于wd-input 二次封装
